@@ -1,4 +1,4 @@
-# Breast Cancer Machine Learning Methods Comparison Project
+# Breast Cancer Machine Learning Methods Comparison with Monte-Carlo Simulations Analysis
 
 ## Overview
 This project focuses on comparing different machine learning methodologies, including supervised, semi-supervised, unsupervised, and active learning techniques. The analysis is conducted using Monte-Carlo simulations on two datasets: Breast Cancer Wisconsin Diagnostic and Banknote Authentication. The primary goal is to evaluate these methods based on performance metrics like accuracy, precision, recall, F1-score, and AUC, with a specific emphasis on learning curves in active learning scenarios.
